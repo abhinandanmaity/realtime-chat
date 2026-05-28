@@ -1,0 +1,9 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: "Billing-Service"
+
+  config:
+    import: "optional:configserver:http://localhost:9093/"

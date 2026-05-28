@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/adminserver/pom.xml" />
+        <option value="$PROJECT_DIR$/APIGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderAI - AuthService/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderAI - BillingService/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderAI - FileService/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderAI - NotificationService/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderAI - ProjectService/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderAI - UserService/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderAI-AuthService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

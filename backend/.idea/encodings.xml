@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/APIGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderAI - AuthService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderAI - BillingService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderAI - FileService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderAI - NotificationService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderAI - ProjectService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderAI - UserService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderAI-AuthService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/adminserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver/src/main/java" charset="UTF-8" />
+  </component>
+</project>

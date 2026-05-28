@@ -1,0 +1,9 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: "File-Service"
+
+  config:
+    import: "optional:configserver:http://localhost:9093/"
